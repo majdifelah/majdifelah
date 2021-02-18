@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Majdi
 #### I am a Senior iOS Developer!!
-![I am a Senior iOS Developer!!](https://www.linkedin.com/in/majdifelah/detail/background-image/)
+![I am a Senior iOS Developer!!](https://github.com/majdifelah/majdifelah/blob/main/1562147883946.jpeg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
