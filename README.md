@@ -2,7 +2,7 @@
 #### I am a Senior iOS Developer!!
 ![I am a Senior iOS Developer!!](https://github.com/majdifelah/majdifelah/blob/main/1562147883946.jpeg)
 
-- 🔭 I’m currently working on **iOS development** 
+- 🔭 I’m currently working on **Medium articles** and building **iOS apps** 
 - 🌱 I’m currently learning **Python & Django** 
 - 👯 I’m looking to collaborate on with other content **creators** 
 - 💬 Ask me about anything related to **swift** 
